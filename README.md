@@ -1,5 +1,5 @@
 # Cloud-Security
-### Getting Started with cloud security- AWS IAM 
+### Implementing cloud security- AWS IAM 
 ___
 In this hands-on lab, you get a basic overview of AWS Identity and Access Management (IAM). With IAM, you can specify who or what can access services and resources in AWS, centrally manage detailedpermissions, and analyze access to refine permissions across AWS.You use policies, users, groups, and roles to grant or restrict access based on the needs of your organization. 
 ### After completing this project, you will be able to do the following:
