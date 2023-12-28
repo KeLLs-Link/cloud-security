@@ -226,3 +226,33 @@ Use what you learned from the previous steps to add user-2 to the EC2-Support gr
 ![screenshot](./screenshot/user2.png)
 
 user-2 should now be part of the EC2-Support group.
+
+- ***Add user-3 to the EC2-Admin group***
+
+You have hired user-3 as your Amazon EC2 administrator to manage your EC2 instances. You will add them to the EC2-Admin group so that they inherit the necessary permissions via the attached EC2-Admin-Policy.
+
+Use what you learned from the previous steps to add user-3 to the EC2-Admin group.
+
+user-3 should now be part of the EC2-Admin group.
+
+![screenshot](./screenshot/user3.png)
+
+
+In the navigation pane on the left, choose User groups.
+
+Each group should have a 1 in the Users column. This indicates the number of users in each group.
+
+If you do not have a 1 for the Users column for a group, revisit the previous steps to ensure that each user is assigned to a group, as shown in the table in the Business scenario section.
+
+### Task 3: Sign in and test users
+In this task, you will test the permissions of each IAM user in the console.
+
+Get the console sign-in URL
+In the navigation pane on the left, choose Dashboard.
+
+Notice the Sign-in URL for IAM users in this account section at the top of the page. The sign-in URL looks similar to the following: https://123456789012.signin.aws.amazon.com/console
+
+This link can be used to sign in to the AWS account that you are currently using.
+
+Copy the sign-in link to a text editor.
+
